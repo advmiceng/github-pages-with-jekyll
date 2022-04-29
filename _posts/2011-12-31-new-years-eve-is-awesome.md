@@ -1,1 +1,4 @@
-_posts/YYYY-MM-DD-title.md.
+---
+title: "new-years-eve-is-awesome"
+date: 2011-12-31
+---
